@@ -49,6 +49,12 @@
         "projectId": "1ff446e0-5372-4082-8741-8625329284fc"
       }
     },
-    "owner": "lollytech1"
+    "owner": "lollytech1",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1ff446e0-5372-4082-8741-8625329284fc"
+    }
   }
 }
