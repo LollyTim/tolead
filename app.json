@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1ff446e0-5372-4082-8741-8625329284fc"
+      }
+    },
+    "owner": "lollytech1"
   }
 }
